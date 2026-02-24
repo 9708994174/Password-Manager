@@ -79,8 +79,3 @@ Password\_Manager/
 Pull requests are welcome. For major changes, please open an issue first to discuss your ideas.
 
 
----
-
-If you want, I can **also add a SQL schema file** (`schema.sql`) with the correct table structure for storing usernames, encrypted passwords, and account details so your GitHub repo is fully functional.  
-Do you want me to create that next?
-```
